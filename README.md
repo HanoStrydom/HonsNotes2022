@@ -18,6 +18,8 @@ ____________________________________________________________
 - ITRI 626/626 (Artificial Intelligence)
 - ITRI 671 ([Project])
 
+> I only did notes for Database Semester 2 and AI Semester 2
+
 ## License
 - MIT
 
